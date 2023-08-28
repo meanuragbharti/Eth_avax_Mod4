@@ -10,7 +10,7 @@ This program is a simple smart contract written in Solidity, a programming langu
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/gks2022004/degen-gaming-token.git>
+git clone <https://github.com/meanuragbharti/Eth_avax_Mod4/tree/main.git>
 ```
 3. Install the dependencies :
  ```bash  
@@ -56,10 +56,8 @@ This will show the transcations like mint, deployed,burn etc.
 
 ## License
 
-
-                                                          Apache License
-                                                     Version 2.0, January 2004
-                                                   http://www.apache.org/licenses/        
+This project is licensed under the MIT License - see [LICENSE](https://github.com/gks2022004/Error_Handling_metacrafter/blob/main/LICENSE) for details
+                                                               
 
 
 
